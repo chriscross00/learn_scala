@@ -1,0 +1,3 @@
+https://www.oreilly.com/library/view/learning-scala/9781449368814/
+https://learnxinyminutes.com/docs/scala/
+
