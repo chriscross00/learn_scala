@@ -1,3 +1,4 @@
 https://www.oreilly.com/library/view/learning-scala/9781449368814/
 https://learnxinyminutes.com/docs/scala/
+https://docs.scala-lang.org/getting-started/sbt-track/getting-started-with-scala-and-sbt-on-the-command-line.html#installation
 
