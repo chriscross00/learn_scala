@@ -1,16 +1,19 @@
 package mlewis
 
 class day2 {
-  var i = 0
-  while (i < 10) {
-    println(i)
-    i += 1
+  val age: Int
+
+  val response = if(age < 18) {
+    "no admittance"
+  } else {
+    "come in"
   }
+  println(response)
 }
 
 object test {
   def main(args: Array[String]): Unit = {
-    val thirdDay = new day2
+    val thirdDay = new day2(20)
 
   }
 }
